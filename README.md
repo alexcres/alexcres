@@ -1,4 +1,13 @@
-### Hi there 👋
+I love book, science, web, data. 
+
+My programming tools on language level are:
+- C++ for performance
+- Ruby for MVC
+- JavaScript for frontend
+
+I am currently learning `Linear Algebra`
+
+Reach me at ac@alexcres.com
 
 <!--
 **alexcres/alexcres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
