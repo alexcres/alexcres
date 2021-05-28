@@ -1,11 +1,8 @@
-I love book, science, web, data. 
+I value knowledge the most. I am happy if I am accumulating or creating knowledge. Love book, science, web, data. 
 
-My programming tools on language level are:
-- C++ for performance
-- Ruby for MVC
-- JavaScript for frontend
-
-I am currently learning `Linear Algebra`
+Currently
+- Learning `Natural Language Processing`
+- Having fun and buidling projects using `Golang`
 
 Reach me at ac@alexcres.com
 
@@ -20,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
