@@ -2,7 +2,7 @@ I value knowledge the most. I am happy if I am accumulating or creating knowledg
 
 Currently
 - Learning `Natural Language Processing`
-- Having fun and buidling projects using `Golang`
+- Having fun with `Golang`
 
 Reach me at ac@alexcres.com
 
